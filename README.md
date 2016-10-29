@@ -1,5 +1,5 @@
 # spark-cassandra-connector
-[![Build Status](https://travis-ci.org/greengerong/qing.png?branch=master)](https://travis-ci.org/greengerong/qing)
+[![Build Status](https://travis-ci.org/MrHongCN/spark-cassandra-connector.png?branch=master)](https://travis-ci.org/MrHongCN/spark-cassandra-connector)
 
 git init
 git add README.md
