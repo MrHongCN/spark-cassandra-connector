@@ -1,4 +1,6 @@
 # spark-cassandra-connector
+[![Build Status](https://travis-ci.org/greengerong/qing.png?branch=master)](https://travis-ci.org/greengerong/qing)
+
 git init
 git add README.md
 git commit -m "first commit"
