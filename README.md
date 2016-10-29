@@ -1,4 +1,4 @@
-# spark-cassandra-connector-parent
+# spark-cassandra-connector
 git init
 git add README.md
 git commit -m "first commit"
